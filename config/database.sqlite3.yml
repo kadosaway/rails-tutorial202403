@@ -10,7 +10,7 @@ development: &default
   timeout: 5000
 
 test:
-    <<: *default
+  <<: *default
   database: /dev/shm/flag_test.sqlite3
 
 production:
