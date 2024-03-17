@@ -67,3 +67,4 @@ gem 'sqlite3'
 gem 'slim-rails'  #Slimのジェネレータを提供
 gem 'html2slim'  #ERB形式のファイルをslim形式に変換してくれる
 gem 'devise'
+gem 'devise-i18n'
