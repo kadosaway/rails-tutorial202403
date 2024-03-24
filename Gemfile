@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby "3.3.0"
+ruby "3.1.3"
 
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
 gem "rails", "~> 7.1.3", ">= 7.1.3.2"
@@ -65,6 +65,6 @@ end
 gem 'sqlite3'
 
 gem 'slim-rails'  #Slimのジェネレータを提供
-gem 'html2slim'  #ERB形式のファイルをslim形式に変換してくれる
+# gem 'html2slim'  #ERB形式のファイルをslim形式に変換してくれる
 gem 'devise'
 gem 'devise-i18n'
