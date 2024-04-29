@@ -1,0 +1,13 @@
+ja:
+  common_footer: Copy Right 2024 All Right Reserved.
+  application:
+    root:
+      title: I18n研究資料
+      name: トップページの記事の名前をここに書くよ。
+      desc: トップページの記事の内容
+  registrations:
+    new:
+      title: ユーザー登録
+  sessions:
+    new:
+      title: ログイン
